@@ -705,11 +705,40 @@ img.frame1-vector {
   position: absolute;
   display: flex;
   top: 4191px;
+  left:200px;
+}
+#article-img-left{
+ 
+position: absolute;
+left: -1.06%;
+top:  -6.42%;
+z-index: -1;
+opacity: 0.8; 
+}
+#article-img-right{
+
+  position: absolute;
+  width: 722.73px;
+  height: 379.4px;
+  left: 888.04px;
+  top: 1%; 
+  z-index: -1;
+  opacity: 0.6;
+  transform: rotate(-204.84deg);
 }
 .art {
   padding: 10px;
   display: block;
-
+  width: 350px;
+  height: 512px;
+  left: 240px;
+  top: 4596px;
+  
+  background: #FFFFFF;
+  /* drop shadow */
+  
+  box-shadow: 10px 40px 50px rgba(229, 233, 246, 0.4);
+  border-radius: 20px;
   flex-wrap: wrap;
 }
 .art img {
@@ -747,3 +776,142 @@ mix-blend-mode: normal;
   
   mix-blend-mode: normal;
 }
+a img{
+  position: absolute;
+  left: 100%;
+  right: -100%;
+  top: 100%;
+  bottom: -100%;
+
+
+
+}
+.art a{
+  font-family: Muli;
+font-style: normal;
+font-weight: 600;
+font-size: 17px;
+line-height: 28px;
+/* identical to box height, or 165% */
+
+text-decoration: none;
+color: #4089ED;
+
+mix-blend-mode: normal;
+}
+#article-btn{
+  position: absolute;
+width: 200px;
+height: 60px;
+left: 416px;
+top: 571px;
+font-family: Muli;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 60px;
+/* identical to box height, or 333% */
+
+
+color: #458FF6;
+
+mix-blend-mode: normal;
+border: 1.4px solid #458FF6;
+box-sizing: border-box;
+border-radius: 55px;
+outline: none;
+}
+footer{
+  position: absolute;
+width: 1638px;
+height: 523px;
+left: -19px;
+top: 5100px;
+}
+#footer-container{
+  position: absolute;
+width: 1600px;
+height: 432px;
+left: 0px;
+top: 60px;
+
+background: linear-gradient(183.41deg, #67C3F3 -8.57%, #5A98F2 82.96%);
+
+}
+.footer-right-img{
+  position: absolute;
+left: 85.06%;
+
+top: -4%;
+
+
+opacity: 0.5;
+}
+.footer-left-img{
+  position: absolute;
+left: 0%;
+bottom: 6.01%;
+z-index: 1;
+
+}
+.footer-left{
+  position: absolute;
+width: 391px;
+height: 201px;
+left: 261px;
+top: 83px;
+color: white;
+}
+.footer-left p.T-logo{
+  position: absolute;
+  left: 2.75%;
+  top:-9.26%;;
+  font-family: Muli;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 26px;
+  line-height: 33px;
+  color: #5B9BF3;
+  mix-blend-mode: normal;
+}
+.footer-left p.T-logo+p{
+  position: absolute;
+left: 13.25%;
+right: 78.06%;
+top: -8.25%;
+font-family: Muli;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 30px;
+mix-blend-mode: normal;
+}
+.footer-center{
+  position: absolute;
+width: 573px;
+height: 214px;
+left: 876px;
+top: 47px;
+color: white;
+display: flex;
+}
+ul{
+  list-style: none;
+  font-family: Muli;
+font-style: normal;
+font-weight: 300;
+font-size: 18px;
+/* line-height: 38px; */
+mix-blend-mode: normal;
+}
+span{
+  font-family: Muli;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 60px;
+}
+li{
+
+}
+
