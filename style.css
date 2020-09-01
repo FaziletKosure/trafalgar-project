@@ -1,0 +1,479 @@
+header {
+  position: absolute;
+  width: 100%;
+  height: 719px;
+  left: -50px;
+  top: 56px;
+}
+
+.logo:first-child {
+  position: absolute;
+  width: 41px;
+  height: 41px;
+  left: 191px;
+  top: 56px;
+  border-radius: 25px;
+
+  background: #458ff6;
+}
+div p.T-logo {
+  position: absolute;
+  left: 24%;
+  right: 86.19%;
+  top: -43%;
+  bottom: 98.42%;
+  z-index: 1;
+
+  font-family: Muli;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 26px;
+  line-height: 33px;
+
+  color: #ffffff;
+
+  mix-blend-mode: normal;
+}
+.logo p {
+  position: absolute;
+  left: 114%;
+  right: 78.06%;
+  top: -41%;
+  /* bottom: 98.43%; */
+
+  font-family: Muli;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 30px;
+
+  color: #233348;
+
+  mix-blend-mode: normal;
+}
+#top-nav {
+  position: absolute;
+  width: 100%;
+  height: 23px;
+  left: -9.5%;
+  top: 6%;
+}
+#top-nav ul {
+  display: flex;
+  list-style-type: none;
+  position: absolute;
+  /* left: 74.25%; */
+  right: 19.25%;
+  top: 1.19%;
+  /* bottom: 98.42%; */
+
+  font-family: Muli;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 23px;
+}
+li {
+  padding: 10px;
+}
+li:first-child {
+  font-weight: bold;
+}
+#dots {
+  position: absolute;
+  left: 2.88%;
+  /* right: 94.9%; */
+  top: 19.73%;
+  /* bottom: 95.32%; */
+  width: 100px;
+  height: 200px;
+  opacity: 0.3;
+}
+.header-text {
+  position: absolute;
+  width: 445px;
+  height: 338px;
+  left: 190px;
+  top: 283px;
+}
+.header-text-h5 {
+  position: absolute;
+  left: 11.88%;
+  /* right: 61.44%; */
+  top: 4.82%;
+  /* bottom: 93.27%; */
+
+  font-family: Muli;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 48px;
+  line-height: 56px;
+  color: #000000;
+
+  mix-blend-mode: normal;
+}
+.header-text-p {
+  position: absolute;
+  left: 11.88%;
+  /* right: 60.31%; */
+  top: 57.16%;
+  /* bottom: 91.21%; */
+
+  font-family: Muli;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 21px;
+  line-height: 32px;
+  color: #7d7987;
+  mix-blend-mode: normal;
+}
+.header-btn {
+  position: absolute;
+  left: 14.38%;
+  /* right: 78.12%; */
+  top: 9.56%;
+  /* bottom: 89.42%; */
+
+  font-family: Muli;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 12px;
+  color: #ffffff;
+  /* height: 333%; */
+  width: 150px;
+  background: #458ff6;
+  border-radius: 55px;
+  mix-blend-mode: normal;
+  border: none;
+  padding: 10px;
+}
+.rechangle-1 {
+  position: absolute;
+  left: 18.88%;
+  /* right: 75.62%; */
+  top: 99.61%;
+  /* bottom: 89.44%; */
+
+  /* background: #458ff6;
+  border-radius: 55px; */
+}
+.illustration {
+  position: absolute;
+  width: 693px;
+  height: 598px;
+  left: 744px;
+  top: 177px;
+}
+# trafalgar-header-illustration1 {
+  position: absolute;
+  left: 46.5%;
+  /* right: 10.19%; */
+  top: 3.02%;
+  /* bottom: 86.8%; */
+
+  background: url(trafalgar-header illustration.png);
+}
+#our-services {
+  position: absolute;
+  width: 1675.58px;
+  height: 1133px;
+  left: -266px;
+  top: 965px;
+}
+.text {
+  position: absolute;
+  width: 952px;
+  height: 177px;
+  left: 595px;
+  top: 22px;
+}
+.text-h3 {
+  position: absolute;
+  left: 41.47%;
+  /* right: 43.31%; */
+  top: -38.53%;
+  /* bottom: 82.57%; */
+
+  font-family: Muli;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 56px;
+  /* identical to box height, or 156% */
+
+  color: #000000;
+
+  mix-blend-mode: normal;
+}
+.text-rectangle-2 {
+  position: absolute;
+  width: 40px;
+  height: 2px;
+  left: 450px;
+  top: 13px;
+  margin-top: 5px;
+  /* margin-bottom: 33px; */
+  background: #000000;
+  border-radius: 5px;
+}
+.text-p {
+  position: absolute;
+  left: 20.19%;
+  /* right: 20.31%; */
+  top: 2.47%;
+  /* bottom: 80.51%; */
+  margin-top: 33px;
+  font-family: Muli;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 30px;
+  /* or 167% */
+
+  text-align: center;
+
+  color: #7d7987;
+
+  mix-blend-mode: normal;
+}
+#services {
+  position: absolute;
+  width: 1120px;
+  height: 745px;
+  left: 345px;
+  top: -1037px;
+}
+#search-doctor {
+  position: absolute;
+  width: 350px;
+  height: 354px;
+  left: 240px;
+  top: 1224px;
+
+  background: #ffffff;
+  /* drop shadow */
+
+  box-shadow: 10px 40px 50px rgba(229, 233, 246, 0.4);
+  border-radius: 20px;
+}
+
+#Online-pharmacy {
+  position: absolute;
+  width: 350px;
+  height: 354px;
+  left: 624px;
+  top: 1224px;
+
+  background: #ffffff;
+  /* drop shadow */
+
+  box-shadow: 10px 40px 50px rgba(229, 233, 246, 0.4);
+  border-radius: 20px;
+}
+#Consultation {
+  position: absolute;
+  width: 350px;
+  height: 354px;
+  left: 1010px;
+  top: 1224px;
+
+  background: #ffffff;
+  /* drop shadow */
+
+  box-shadow: 10px 40px 50px rgba(229, 233, 246, 0.4);
+  border-radius: 20px;
+}
+#Details-info {
+  position: absolute;
+  width: 350px;
+  height: 354px;
+  left: 240px;
+  top: 1615px;
+
+  background: #ffffff;
+  /* drop shadow */
+
+  box-shadow: 10px 40px 50px rgba(229, 233, 246, 0.4);
+  border-radius: 20px;
+}
+
+#emergency-care {
+  position: absolute;
+  width: 350px;
+  height: 354px;
+  left: 624px;
+  top: 1615px;
+
+  background: #ffffff;
+  /* drop shadow */
+
+  box-shadow: 10px 40px 50px rgba(229, 233, 246, 0.4);
+  border-radius: 20px;
+}
+img.frame1-vector {
+  position: absolute;
+  width: 937.96px;
+  height: 671.38px;
+  left: -145.42px;
+
+  top: 159.74%;
+  z-index: -1;
+  opacity: 0.6;
+  transform: rotate(21.46deg);
+}
+.element1-vector {
+  position: absolute;
+  /* left: 79.88%; */
+  right: -23.1%;
+  top: 206.74%;
+  /* bottom: 72.3%; */
+
+  opacity: 0.6;
+  z-index: -1;
+}
+
+.grup-3 {
+  position: absolute;
+  width: 267px;
+  height: 248.41px;
+  left: 21px;
+  top: 19px;
+  z-index: 1;
+}
+/* div img#frame {
+  position: absolute;
+  width: 80px;
+  height: 71.15px;
+  left: 664px;
+  top: 1674px;
+  z-index: 1;
+} */
+/* div h4.emergency-h4 {
+  position: absolute;
+  left: 41.38%;
+  right: 47.25%;
+  top: 30.35%;
+  bottom: 68.7%;
+
+  font-family: Muli;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 56px;
+  identical to box height, or 233%
+
+  color: #000000;
+
+  mix-blend-mode: normal;
+} */
+#Tracking {
+  position: absolute;
+  width: 350px;
+  height: 354px;
+  left: 1010px;
+  top: 1615px;
+
+  background: #ffffff;
+  /* drop shadow */
+
+  box-shadow: 10px 40px 50px rgba(229, 233, 246, 0.4);
+  border-radius: 20px;
+}
+#services-btn {
+  width: 200px;
+  height: 60px;
+
+  position: absolute;
+  left: 62.94%;
+  /* right: 46.94%; */
+  /* top: 34.72%; */
+  bottom: 9.26%;
+
+  font-family: Muli;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 60px;
+  /* identical to box height, or 333% */
+
+  color: #458ff6;
+
+  mix-blend-mode: normal;
+
+  border: 1.4px solid #458ff6;
+  box-sizing: border-box;
+  border-radius: 55px;
+  outline: none;
+}
+#leading-healthcare-providers {
+  /* display: flex; */
+  position: absolute;
+  width: 1273px;
+  height: 477px;
+  left: 135px;
+  top: 2140px;
+}
+#trafalgar-illustration-sec02 {
+  position: absolute;
+  left: 8.44%;
+  right: 50.94%;
+  top: 39.49%;
+  bottom: 52.39%;
+
+  background: url(trafalgar-illustration sec02.png);
+}
+#text-1 {
+  /* display: flex; */
+  position: absolute;
+  width: 486px;
+  height: 388px;
+  left: 937px;
+  top: 207px;
+  /* z-index: -1; */
+}
+.text1-h4 {
+  font-family: Muli;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 56px;
+  /* or 156% */
+
+  color: #000000;
+
+  mix-blend-mode: normal;
+}
+.text1-p {
+  font-family: Muli;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 30px;
+  /* or 167% */
+
+  color: #7d7987;
+
+  mix-blend-mode: normal;
+}
+
+#text1-btn {
+  position: absolute;
+  width: 200px;
+  height: 60px;
+  right: 60.06%;
+  top: 77.05%;
+  font-family: Muli;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 60px;
+  /* identical to box height, or 333% */
+  border: 1.4px solid #458ff6;
+  box-sizing: border-box;
+  border-radius: 55px;
+  color: #458ff6;
+  outline: none;
+
+  mix-blend-mode: normal;
+}
