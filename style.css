@@ -598,3 +598,152 @@ img.frame1-vector {
   background: #ffffff;
   border-radius: 6px;
 }
+.testimonials_p {
+  position: absolute;
+  left: 51.5%;
+  /* top: 67.12%; */
+  bottom: 30.83%;
+
+  font-family: Muli;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 19px;
+  line-height: 30px;
+  /* or 158% */
+
+  color: rgba(255, 255, 255, 0.9);
+
+  mix-blend-mode: normal;
+}
+.edward-group {
+  position: absolute;
+  display: flex;
+  bottom: 30.83%;
+
+  left: 7.94%;
+}
+.edward {
+  position: absolute;
+  left: 21.12%;
+
+  bottom: 31.72%;
+
+  font-family: Muli;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 22px;
+  line-height: 48px;
+  /* identical to box height, or 218% */
+
+  color: #ffffff;
+
+  mix-blend-mode: normal;
+}
+.cicle {
+  position: absolute;
+  left: 21.12%;
+  top: 47.01%;
+  font-family: Muli;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 48px;
+  /* identical to box height, or 267% */
+
+  color: rgba(255, 255, 255, 0.85);
+
+  mix-blend-mode: normal;
+}
+.left {
+  position: absolute;
+  left: 0.88%;
+  top: -2.94%;
+  opacity: 3;
+  z-index: -1;
+}
+.right {
+  position: absolute;
+
+  right: -4.1%;
+  top: -39.81%;
+  opacity: 2;
+  z-index: -1;
+}
+#lates_article {
+  position: absolute;
+  width: 1785.11px;
+  height: 810px;
+  left: 191px;
+  top: 3400px;
+}
+.lates_article-h4 {
+  position: absolute;
+  right: 52%;
+  top: 75.52%;
+  font-family: Muli;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 56px;
+  /* identical to box height, or 156% */
+
+  color: #000000;
+
+  mix-blend-mode: normal;
+}
+.lates_article- {
+  position: absolute;
+  width: 56px;
+  height: 2px;
+  left: 618px;
+  top: 86.52%;
+
+  background: #000000;
+  border-radius: 5px;
+}
+#article {
+  position: absolute;
+  display: flex;
+  top: 4191px;
+}
+.art {
+  padding: 10px;
+  display: block;
+
+  flex-wrap: wrap;
+}
+.art img {
+  width: 369px;
+height: 246px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  wid
+}
+.art h5{
+  font-family: Muli;
+font-style: normal;
+font-weight: bold;
+font-size: 21px;
+line-height: 32px;
+/* or 152% */
+
+
+color: #000000;
+
+mix-blend-mode: normal;
+}
+.art p{
+  
+  
+  font-family: Muli;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 28px;
+  /* or 175% */
+  
+  
+  color: #7D7987;
+  
+  mix-blend-mode: normal;
+}
